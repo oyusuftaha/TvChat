@@ -1,9 +1,9 @@
 [
     {
-        "channelId": 1,
+        "channelID": 1,
         "channelName": "ATV",
         "programName": "ATV Turgay Başyayla ile İftar Yolculuğu",
-        "programName": "https://s.hurriyet.com.tr/dinamik/tv-rehberi/images/195/2998195.jpg",
+        "programIcon": "https://s.hurriyet.com.tr/dinamik/tv-rehberi/images/195/2998195.jpg",
         "programStartTime": "13:00",
         "programEndTime": "14:00",
         "programDuration": "60 dakika",
@@ -13,10 +13,10 @@
         "isLive": false
     },
     {
-        "channelId": 2,
+        "channelID": 2,
         "channelName": "Kanal D",
         "programName": "KANAL D Turgay Başyayla ile İftar Yolculuğu",
-        "programName": "https://s.hurriyet.com.tr/dinamik/tv-rehberi/images/195/2998195.jpg",
+        "programIcon": "https://s.hurriyet.com.tr/dinamik/tv-rehberi/images/195/2998195.jpg",
         "programStartTime": "13:00",
         "programEndTime": "14:00",
         "programDuration": "60 dakika",
@@ -26,10 +26,10 @@
         "isLive": false
     },
     {
-        "channelId": 3,
+        "channelID": 3,
         "channelName": "Star",
         "programName": "STAR Turgay Başyayla ile İftar Yolculuğu",
-        "programName": "https://s.hurriyet.com.tr/dinamik/tv-rehberi/images/195/2998195.jpg",
+        "programIcon": "https://s.hurriyet.com.tr/dinamik/tv-rehberi/images/195/2998195.jpg",
         "programStartTime": "13:00",
         "programEndTime": "14:00",
         "programDuration": "60 dakika",
