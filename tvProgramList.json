@@ -1,0 +1,41 @@
+[
+    {
+        "channelId": 1,
+        "channelName": "ATV",
+        "programName": "ATV Turgay Başyayla ile İftar Yolculuğu",
+        "programName": "https://s.hurriyet.com.tr/dinamik/tv-rehberi/images/195/2998195.jpg",
+        "programStartTime": "13:00",
+        "programEndTime": "14:00",
+        "programDuration": "60 dakika",
+        "programTimeBetween": "13:00 - 14:00",
+        "programCategory": " Yemek Programı\n ",
+        "programSummary": " Ramazan ayına özel geleneksel lezzetlere yer veriliyor.\n ",
+        "isLive": false
+    },
+    {
+        "channelId": 2,
+        "channelName": "Kanal D",
+        "programName": "KANAL D Turgay Başyayla ile İftar Yolculuğu",
+        "programName": "https://s.hurriyet.com.tr/dinamik/tv-rehberi/images/195/2998195.jpg",
+        "programStartTime": "13:00",
+        "programEndTime": "14:00",
+        "programDuration": "60 dakika",
+        "programTimeBetween": "13:00 - 14:00",
+        "programCategory": " Yemek Programı\n ",
+        "programSummary": " Ramazan ayına özel geleneksel lezzetlere yer veriliyor.\n ",
+        "isLive": false
+    },
+    {
+        "channelId": 3,
+        "channelName": "Star",
+        "programName": "STAR Turgay Başyayla ile İftar Yolculuğu",
+        "programName": "https://s.hurriyet.com.tr/dinamik/tv-rehberi/images/195/2998195.jpg",
+        "programStartTime": "13:00",
+        "programEndTime": "14:00",
+        "programDuration": "60 dakika",
+        "programTimeBetween": "13:00 - 14:00",
+        "programCategory": " Yemek Programı\n ",
+        "programSummary": " Ramazan ayına özel geleneksel lezzetlere yer veriliyor.\n ",
+        "isLive": false
+    }
+]
